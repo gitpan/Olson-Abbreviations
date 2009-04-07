@@ -1,5 +1,8 @@
 Revision history for Olson-Abbreviations
 
+0.02    Fixed spaces/tabs on data
+        Fixed bad implimentation of MX:AH
+
 0.01    Date/time
         First version, released on an unsuspecting world.
 
