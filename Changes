@@ -1,7 +1,12 @@
 Revision history for Olson-Abbreviations
 
-0.02    Fixed spaces/tabs on data
-        Fixed bad implimentation of MX:AH
+0.03    2012-07-19
+        upgraded to require the latest MX::ClassAttribute
+
+0.02    2010-09-20
+        uses namespace clean
+        removes requirement for MX:AH
+        specifies version of ClassAttribute required
 
 0.01    Date/time
         First version, released on an unsuspecting world.

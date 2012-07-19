@@ -6,8 +6,8 @@ author   'Evan Carroll <me+cpan@evancarroll.com>';
 license  'perl';
 
 requires 'Moose';
-requires 'MooseX::AttributeHelpers';
-requires 'MooseX::ClassAttribute';
+requires 'MooseX::ClassAttribute' => '0.25';
+requires 'namespace::autoclean';
 
 test_requires 'Test::More';
 
