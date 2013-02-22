@@ -42,6 +42,7 @@
    },
    "release_status" : "stable",
    "resources" : {
+      "homepage" : "https://github.com/EvanCarroll/olson-abbreviations",
       "license" : [
          "http://dev.perl.org/licenses/"
       ],
@@ -49,5 +50,5 @@
          "url" : "git://github.com/EvanCarroll/olson-abbreviations.git"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }

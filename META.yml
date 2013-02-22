@@ -25,6 +25,7 @@ requires:
   MooseX::ClassAttribute: 0.25
   namespace::autoclean: 0
 resources:
+  homepage: https://github.com/EvanCarroll/olson-abbreviations
   license: http://dev.perl.org/licenses/
   repository: git://github.com/EvanCarroll/olson-abbreviations.git
-version: 0.03
+version: 0.04
